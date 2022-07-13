@@ -1,0 +1,25 @@
+{
+    "name": "Gruvbox Black",
+    "is_dark": true,
+    "colors": {
+        "sidebar-color": "#111111",
+
+        "warning-color": "#ea6962",
+        "accent-color": "#89b482",
+        "primary-color": "#8f9a52",
+
+        "roomlist-background-color": "#000000",
+        "roomlist-highlights-color": "#111111",
+        "roomlist-separator-color": "#222222",
+        "roomlist-text-color": "#a89984",
+        "roomlist-text-secondary-color": "#928374",
+
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#a89984",
+        "secondary-content": "#a89984",
+        "tertiary-content": "#a89984",
+        "timeline-text-secondary-color": "#89b482",
+        "timeline-highlights-color": "#504945d0",
+        "reaction-row-button-selected-bg-color": "#504945d0"
+    }
+}
